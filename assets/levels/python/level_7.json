@@ -1,0 +1,17 @@
+{
+    "id": "level_7",
+    "title": "Hidden Passages",
+    "description": "Find the secret spot at (4, 2).",
+    "language": "python",
+    "initialCode": "move_right()\n",
+    "initialGameState": {
+        "goal_x": 4,
+        "goal_y": 2
+    },
+    "solution": [
+        "move_right",
+        "move_right",
+        "move_right",
+        "move_down"
+    ]
+}

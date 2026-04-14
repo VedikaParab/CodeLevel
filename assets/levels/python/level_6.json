@@ -1,0 +1,15 @@
+{
+    "id": "level_6",
+    "title": "The Archivist",
+    "description": "The librarian knight needs help. Reach (0, 0) quickly!",
+    "language": "python",
+    "initialCode": "move_left()\n",
+    "initialGameState": {
+        "goal_x": 0,
+        "goal_y": 0
+    },
+    "solution": [
+        "move_up",
+        "move_left"
+    ]
+}

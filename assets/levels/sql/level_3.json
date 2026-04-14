@@ -1,0 +1,12 @@
+{
+  "id": "level_3",
+  "title": "Filtering Data",
+  "description": "Filter the results. Get all users who have the Admin role from the USERS table.",
+  "language": "sql",
+  "initialCode": "-- Write your query here\n",
+  "initialGameState": {
+    "requiredTable": "USERS",
+    "requiredFilter": "role = 'Admin'"
+  },
+  "solution": ["USERS"]
+}

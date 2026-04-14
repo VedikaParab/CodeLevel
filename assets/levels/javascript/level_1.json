@@ -1,0 +1,12 @@
+{
+    "id": "js_1",
+    "title": "Variable Lock",
+    "description": "Define a variable named 'secret' and set it to 42 to unlock the door.",
+    "language": "javascript",
+    "initialCode": "// Let's unlock the door\n",
+    "initialGameState": {
+        "requiredVar": "secret",
+        "requiredValue": 42
+    },
+    "solution": ["assign_secret"]
+}

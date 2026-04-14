@@ -1,0 +1,17 @@
+{
+    "id": "level_3",
+    "title": "Turn of Events",
+    "description": "The path turns! Move your knight to the goal below.",
+    "language": "python",
+    "initialCode": "",
+    "initialGameState": {
+        "goal_x": 1,
+        "goal_y": 5
+    },
+    "solution": [
+        "move_down",
+        "move_down",
+        "move_down",
+        "move_down"
+    ]
+}

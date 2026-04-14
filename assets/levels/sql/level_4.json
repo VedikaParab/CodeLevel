@@ -1,0 +1,11 @@
+{
+  "id": "level_4",
+  "title": "Advanced Filtering",
+  "description": "Query the ORDERS table. Retrieve all order records from the database.",
+  "language": "sql",
+  "initialCode": "-- Write your query here\n",
+  "initialGameState": {
+    "requiredTable": "ORDERS"
+  },
+  "solution": ["ORDERS"]
+}

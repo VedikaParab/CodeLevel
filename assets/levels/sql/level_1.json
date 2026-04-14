@@ -1,0 +1,11 @@
+{
+    "id": "sql_1",
+    "title": "The Archivist's Request",
+    "description": "The Archivist needs to see all users. Query the USERS table to retrieve all records.",
+    "language": "sql",
+    "initialCode": "-- Write your query here\n",
+    "initialGameState": {
+        "requiredTable": "USERS"
+    },
+    "solution": ["USERS"]
+}

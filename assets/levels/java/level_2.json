@@ -1,0 +1,12 @@
+{
+  "id": "level_2",
+  "title": "Multiple Classes",
+  "description": "Define 2 classes: Hero and Enemy.",
+  "language": "java",
+  "initialCode": "class Hero {\n  void move() {\n    // Hero movement\n  }\n}\n\nclass Enemy {\n  void attack() {\n    // Enemy attack\n  }\n}\n",
+  "initialGameState": {
+    "requiredClasses": ["Hero", "Enemy"],
+    "classCount": 2
+  },
+  "solution": ["class_Hero", "method_move", "class_Enemy"]
+}

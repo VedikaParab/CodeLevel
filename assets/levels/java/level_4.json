@@ -1,0 +1,11 @@
+{
+  "id": "level_4",
+  "title": "Object Instantiation",
+  "description": "Create multiple classes: Hero, Enemy, and Boss with methods.",
+  "language": "java",
+  "initialCode": "class Hero {\n  void move() {}\n}\nclass Enemy {\n  void attack() {}\n}\nclass Boss {\n  void special() {}\n}\n",
+  "initialGameState": {
+    "requiredClasses": ["Hero", "Enemy", "Boss"]
+  },
+  "solution": ["class_Hero", "method_move", "class_Enemy"]
+}

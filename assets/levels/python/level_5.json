@@ -1,0 +1,16 @@
+{
+    "id": "level_5",
+    "title": "Combat Training",
+    "description": "Enemies ahead! But for now, just reach the training spot at (3, 0).",
+    "language": "python",
+    "initialCode": "",
+    "initialGameState": {
+        "goal_x": 3,
+        "goal_y": 0
+    },
+    "solution": [
+        "move_up",
+        "move_right",
+        "move_right"
+    ]
+}

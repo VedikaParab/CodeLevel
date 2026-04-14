@@ -1,0 +1,12 @@
+{
+  "id": "level_5",
+  "title": "Class Hierarchy",
+  "description": "Create three classes: Character, Hero, Enemy with appropriate methods.",
+  "language": "java",
+  "initialCode": "class Character {\n  void act() {}\n}\nclass Hero {\n  void move() {}\n}\nclass Enemy {\n  void attack() {}\n}\n",
+  "initialGameState": {
+    "requiredClasses": ["Character", "Hero", "Enemy"],
+    "classCount": 3
+  },
+  "solution": ["class_Character", "method_act", "class_Hero"]
+}

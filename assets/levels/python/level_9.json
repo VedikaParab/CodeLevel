@@ -1,0 +1,23 @@
+{
+    "id": "level_9",
+    "title": "Deep Dungeon",
+    "description": "Almost there. Reach (6, 6).",
+    "language": "python",
+    "initialCode": "move_right()\n",
+    "initialGameState": {
+        "goal_x": 6,
+        "goal_y": 6
+    },
+    "solution": [
+        "move_right",
+        "move_right",
+        "move_right",
+        "move_right",
+        "move_right",
+        "move_down",
+        "move_down",
+        "move_down",
+        "move_down",
+        "move_down"
+    ]
+}

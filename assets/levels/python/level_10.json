@@ -1,0 +1,19 @@
+{
+    "id": "level_10",
+    "title": "The Final Treasure",
+    "description": "The ultimate goal is at (0, 6). Victory is yours!",
+    "language": "python",
+    "initialCode": "move_left()\n",
+    "initialGameState": {
+        "goal_x": 0,
+        "goal_y": 6
+    },
+    "solution": [
+        "move_left",
+        "move_down",
+        "move_down",
+        "move_down",
+        "move_down",
+        "move_down"
+    ]
+}

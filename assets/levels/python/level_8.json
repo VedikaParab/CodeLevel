@@ -1,0 +1,17 @@
+{
+    "id": "level_8",
+    "title": "The Maze",
+    "description": "Navigation is key. Reach (2, 4).",
+    "language": "python",
+    "initialCode": "move_down()\n",
+    "initialGameState": {
+        "goal_x": 2,
+        "goal_y": 4
+    },
+    "solution": [
+        "move_right",
+        "move_down",
+        "move_down",
+        "move_down"
+    ]
+}

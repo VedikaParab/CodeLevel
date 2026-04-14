@@ -1,0 +1,12 @@
+{
+    "id": "java_1",
+    "title": "The Blueprint",
+    "description": "Define a class named 'Hero' and add a method named 'move'.",
+    "language": "java",
+    "initialCode": "class Hero {\n  // add code\n}",
+    "initialGameState": {
+        "requiredClass": "Hero",
+        "requiredMethod": "move"
+    },
+    "solution": ["class_Hero", "method_move"]
+}

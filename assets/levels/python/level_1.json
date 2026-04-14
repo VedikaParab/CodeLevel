@@ -1,0 +1,17 @@
+{
+  "id": "level_1",
+  "title": "The First Steps",
+  "description": "Welcome to Python Kingdom! Guide your knight to the treasure chest. Use move_right() to start.",
+  "language": "python",
+  "initialCode": "",
+  "initialGameState": {
+    "goal_x": 5,
+    "goal_y": 1
+  },
+  "solution": [
+    "move_right",
+    "move_right",
+    "move_right",
+    "move_right"
+  ]
+}

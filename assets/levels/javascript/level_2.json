@@ -1,0 +1,11 @@
+{
+  "id": "level_2",
+  "title": "Turn and Move",
+  "description": "Navigate around obstacles. Use moveRight(), moveDown(), and moveRight() function calls.",
+  "language": "javascript",
+  "initialCode": "// Move right\nmoveRight();\n// Move down\nmoveDown();\n// Move right again\nmoveRight();\n",
+  "initialGameState": {
+    "requiredActions": 3
+  },
+  "solution": ["move_right", "move_down", "move_right"]
+}

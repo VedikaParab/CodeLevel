@@ -1,0 +1,12 @@
+{
+  "id": "level_2",
+  "title": "Column Selection",
+  "description": "Select specific columns. Retrieve the id and name columns from the USERS table.",
+  "language": "sql",
+  "initialCode": "-- Write your query here\n",
+  "initialGameState": {
+    "requiredTable": "USERS",
+    "requiredColumns": ["id", "name"]
+  },
+  "solution": ["USERS"]
+}

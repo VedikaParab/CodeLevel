@@ -1,0 +1,11 @@
+{
+  "id": "level_5",
+  "title": "Loop Master",
+  "description": "Use multiple function calls in sequence: moveRight(), moveDown(), attack().",
+  "language": "javascript",
+  "initialCode": "moveRight();\nmoveDown();\nattack();\n",
+  "initialGameState": {
+    "requiredActions": 3
+  },
+  "solution": ["move_right", "move_down", "attack"]
+}

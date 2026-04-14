@@ -1,0 +1,11 @@
+{
+  "id": "level_5",
+  "title": "Sorting and Limiting",
+  "description": "Query the PRODUCTS table. Retrieve all product records from inventory.",
+  "language": "sql",
+  "initialCode": "-- Write your query here\n",
+  "initialGameState": {
+    "requiredTable": "PRODUCTS"
+  },
+  "solution": ["PRODUCTS"]
+}

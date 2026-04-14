@@ -1,0 +1,21 @@
+{
+    "id": "level_4",
+    "title": "Around the Bend",
+    "description": "A long trek ahead. Use multiple moves to reach the goal.",
+    "language": "python",
+    "initialCode": "",
+    "initialGameState": {
+        "goal_x": 5,
+        "goal_y": 5
+    },
+    "solution": [
+        "move_right",
+        "move_right",
+        "move_right",
+        "move_right",
+        "move_down",
+        "move_down",
+        "move_down",
+        "move_down"
+    ]
+}

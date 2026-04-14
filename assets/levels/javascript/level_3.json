@@ -1,0 +1,11 @@
+{
+  "id": "level_3",
+  "title": "Variable Power",
+  "description": "Use variables to control your actions. Set direction = 'forward' and count = 5.",
+  "language": "javascript",
+  "initialCode": "// Set direction\nlet direction = 'forward';\n// Set count\nlet count = 5;\n",
+  "initialGameState": {
+    "requiredActions": 3
+  },
+  "solution": ["assign_direction", "assign_count"]
+}

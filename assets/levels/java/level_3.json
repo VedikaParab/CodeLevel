@@ -1,0 +1,12 @@
+{
+  "id": "level_3",
+  "title": "Methods and Objects",
+  "description": "Create three classes: Fighter, Guardian, Healer with methods.",
+  "language": "java",
+  "initialCode": "class Fighter {\n  void attack() {}\n}\nclass Guardian {\n  void defend() {}\n}\nclass Healer {\n  void heal() {}\n}\n",
+  "initialGameState": {
+    "requiredClasses": ["Fighter", "Guardian", "Healer"],
+    "classCount": 3
+  },
+  "solution": ["class_Fighter", "method_attack", "class_Guardian"]
+}

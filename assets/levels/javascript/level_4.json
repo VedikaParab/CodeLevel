@@ -1,0 +1,11 @@
+{
+  "id": "level_4",
+  "title": "Logic Gate",
+  "description": "Assign multiple variables: score = 75, victory = true, message = 'won'.",
+  "language": "javascript",
+  "initialCode": "let score = 75;\nlet victory = true;\nlet message = 'won';\n",
+  "initialGameState": {
+    "requiredActions": 3
+  },
+  "solution": ["assign_score", "assign_victory", "assign_message"]
+}

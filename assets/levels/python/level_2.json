@@ -1,0 +1,19 @@
+{
+    "id": "level_2",
+    "title": "The Journey Continues",
+    "description": "Excellent! Now move a bit further to reach the next chest.",
+    "language": "python",
+    "initialCode": "",
+    "initialGameState": {
+        "goal_x": 7,
+        "goal_y": 1
+    },
+    "solution": [
+        "move_right",
+        "move_right",
+        "move_right",
+        "move_right",
+        "move_right",
+        "move_right"
+    ]
+}
