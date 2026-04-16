@@ -24,7 +24,7 @@ class AssessmentScreen extends StatefulWidget {
 }
 
 class _AssessmentScreenState extends State<AssessmentScreen> {
-  static const _endpoint = 'https://lvo38ogose.execute-api.ap-south-1.amazonaws.com/generate-assessment';
+  static const _endpoint = 'https://whec0x2e0g.execute-api.ap-south-1.amazonaws.com/generate-assessment';
 
   List<AssessmentQuestion> _questions = [];
   bool _loading = true;
